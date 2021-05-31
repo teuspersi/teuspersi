@@ -1,18 +1,14 @@
-### Hi there 👋
+# Olá 👋
 
-# Mateus Pereira
+Meu nome é Mateus Pereira, 📚 estudante do curso técnico de informática no IFBA (Instituto de Educação, Ciência e Tecnologia da Bahia) e apaixonado em codar.
 
-CTO @Rocketseat.
+Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. Desde então, fiquei muito interessado e comecei minhas pesquisas, até encontrar o desenvolvimento web, que é onde eu foco meus estudos desde então.
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+Me encontre aqui 👇
 
-Enthusiast of the best web & mobile development technologies.
-
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+[![Twitter Badge](https://img.shields.io/badge/-@teuspersi-1DA1F2?style=flat-square&labelColor=#1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+[![Instagram Badge](https://img.shields.io/badge/-@mateuspersi-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuspersi/)](https://www.instagram.com/papodedev/)
+[![Gmail Badge](https://img.shields.io/badge/-teuspersi@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teuspersi@gmail.com)](mailto:teuspersi@gmail.com)
 
 
 <!--
