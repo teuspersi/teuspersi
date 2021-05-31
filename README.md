@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Meu nome é Mateus Pereira, 📚 estudante do curso técnico de informática no IFBA (Instituto de Educação, Ciência e Tecnologia da Bahia) e apaixonado em codar.
 
