@@ -6,7 +6,7 @@ Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. D
 
 Me encontre aqui 👇
 
-[![Twitter Badge](https://img.shields.io/badge/-@teuspersi-1DA1F2?style=flat-square&labelColor=#1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/teuspersi) 
+[![Twitter Badge](https://img.shields.io/badge/-@teuspersi-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/teuspersi)](https://twitter.com/teuspersi) 
 [![Instagram Badge](https://img.shields.io/badge/-@mateuspersi-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuspersi/)](https://www.instagram.com/mateuspersi/)
 [![Gmail Badge](https://img.shields.io/badge/-teuspersi@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teuspersi@gmail.com)](mailto:teuspersi@gmail.com)
 
