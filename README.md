@@ -4,6 +4,8 @@ Meu nome é Mateus Pereira, 📚 estudante do curso técnico de informática no 
 
 Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. Desde então, fiquei muito interessado e comecei minhas pesquisas, até encontrar o desenvolvimento web, que é onde eu foco meus estudos desde então.
 
+Atualmente meu foco está no back-end, mas também sei me virar no front-end, haha.
+
 #### Me encontre aqui 👇
 
 [![Twitter Badge](https://img.shields.io/badge/-@teuspersi-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/teuspersi)](https://twitter.com/teuspersi) 
