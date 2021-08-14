@@ -1,12 +1,10 @@
 # Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div>
 Meu nome é Mateus Pereira, 📚 estudante do curso técnico de informática no IFBA (Instituto de Educação, Ciência e Tecnologia da Bahia) e apaixonado em codar.
 
 Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. Desde então, fiquei muito interessado e comecei minhas pesquisas, até encontrar o desenvolvimento web, que é onde eu foco meus estudos desde então.
 
 Atualmente meu foco está no back-end, mas também sei me virar no front. 🙂
-</div>
 
 - 🔭 Em busca de oportunidades no back-end
 - 🌱 Estudando Typescript e Node.js
@@ -23,12 +21,12 @@ Atualmente meu foco está no back-end, mas também sei me virar no front. 🙂
 </div>
 
 
-#### Me encontre aqui 📫
+#### Me encontre aqui 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus_Pereira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuspersi/)](https://www.linkedin.com/in/mateuspersi/) 
-[![Twitter Badge](https://img.shields.io/badge/-@teuspersi-1DA1F2?style=flat&logo=Instagram&logoColor=white&link=https://twitter.com/teuspersi)](https://twitter.com/teuspersi) 
-[![Instagram Badge](https://img.shields.io/badge/-@mateuspersi-C13584?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuspersi/)](https://www.instagram.com/mateuspersi/)
-[![Gmail Badge](https://img.shields.io/badge/-teuspersi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:teuspersi@gmail.com)](mailto:teuspersi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Mateus_Pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuspersi/)
+[![Instagram Badge](https://img.shields.io/badge/@mateuspersi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspersi/)
+[![Twitter Badge](https://img.shields.io/badge/@teuspersi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teuspersi) 
+[![Gmail Badge](	https://img.shields.io/badge/teuspersi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teuspersi@gmail.com)
 
 <div>
   <a href="https://github.com/teuspersi">
