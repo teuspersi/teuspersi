@@ -1,17 +1,42 @@
 # Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<div>
 Meu nome é Mateus Pereira, 📚 estudante do curso técnico de informática no IFBA (Instituto de Educação, Ciência e Tecnologia da Bahia) e apaixonado em codar.
 
 Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. Desde então, fiquei muito interessado e comecei minhas pesquisas, até encontrar o desenvolvimento web, que é onde eu foco meus estudos desde então.
 
 Atualmente meu foco está no back-end, mas também sei me virar no front. 🙂
+</div>
 
-#### Me encontre aqui 👇
+- 🔭 Em busca de oportunidades no back-end
+- 🌱 Estudando Typescript e Node.js
+- 😄 Pronomes: ele/dele
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus_Pereira-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuspersi/)](https://www.linkedin.com/in/mateuspersi/) 
-[![Twitter Badge](https://img.shields.io/badge/-@teuspersi-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/teuspersi)](https://twitter.com/teuspersi) 
-[![Instagram Badge](https://img.shields.io/badge/-@mateuspersi-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuspersi/)](https://www.instagram.com/mateuspersi/)
-[![Gmail Badge](https://img.shields.io/badge/-teuspersi@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teuspersi@gmail.com)](mailto:teuspersi@gmail.com)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png">
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mateus-Bootstrap" height="30" width="35" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67">
+  <img align="center" alt="Mateus-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+
+#### Me encontre aqui 📫
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus_Pereira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuspersi/)](https://www.linkedin.com/in/mateuspersi/) 
+[![Twitter Badge](https://img.shields.io/badge/-@teuspersi-1DA1F2?style=flat&logo=Instagram&logoColor=white&link=https://twitter.com/teuspersi)](https://twitter.com/teuspersi) 
+[![Instagram Badge](https://img.shields.io/badge/-@mateuspersi-C13584?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuspersi/)](https://www.instagram.com/mateuspersi/)
+[![Gmail Badge](https://img.shields.io/badge/-teuspersi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:teuspersi@gmail.com)](mailto:teuspersi@gmail.com)
+
+<div>
+  <a href="https://github.com/teuspersi">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuspersi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=teuspersi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **teuspersi/teuspersi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
