@@ -2,7 +2,7 @@
 
 Meu nome é Mateus Pereira, 📚 estudante do curso técnico de informática no IFBA (Instituto de Educação, Ciência e Tecnologia da Bahia) e apaixonado em codar.
 
-Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. Desde então, fiquei muito interessado e comecei minhas pesquisas, até encontrar o desenvolvimento web, que é onde eu foco meus estudos desde então.
+<!-- Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. Desde então, fiquei muito interessado e comecei minhas pesquisas, até encontrar o desenvolvimento web, que é onde eu foco meus estudos desde então. -->
 
 Atualmente meu foco está no back-end, mas também sei me virar no front. 🙂
 
