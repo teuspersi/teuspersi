@@ -4,7 +4,7 @@ Meu nome é Mateus Pereira, 📚 estudante do curso técnico de informática no 
 
 <!-- Meu interesse por programação começou no IFBA mesmo, quando conheci o Java. Desde então, fiquei muito interessado e comecei minhas pesquisas, até encontrar o desenvolvimento web, que é onde eu foco meus estudos desde então. -->
 
-Atualmente meu foco está no back-end, mas também sei me virar no front. 🙂
+Atualmente meu foco está no desenvolvimento back-end.
 
 <!-- - 🔭 Em busca de oportunidades no back-end
 - 🌱 Estudando Node.js e React.
@@ -29,13 +29,13 @@ Atualmente meu foco está no back-end, mas também sei me virar no front. 🙂
 [![Twitter Badge](https://img.shields.io/badge/@teuspersi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teuspersi) 
 [![Gmail Badge](	https://img.shields.io/badge/teuspersi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teuspersi@gmail.com)
 
-<!-- <div>
+<div>
   <a href="https://github.com/teuspersi">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuspersi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=teuspersi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</div> -->
+</div>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **teuspersi/teuspersi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
