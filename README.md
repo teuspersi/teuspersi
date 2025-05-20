@@ -6,8 +6,7 @@ Adoro pegar uma ideia do zero e transformá-la em algo funcional — especialmen
 
 Hoje meu foco está no **desenvolvimento web**, e estou sempre buscando aprender coisas novas, criar projetos interessantes e crescer como dev.
 
-Atualmente, trabalho na **Prevision**, onde ajudo a **transformar a indústria da construção civil através da tecnologia**.  
-É incrível poder contribuir com soluções que fazem diferença de verdade no dia a dia das obras!
+Atualmente, trabalho na **Prevision**, onde ajudo a **transformar a indústria da construção civil através da tecnologia**.
 
 #### O que já passou pelo meu teclado:
 <div style="display: inline_block">
