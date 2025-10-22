@@ -1,5 +1,5 @@
 # Olá 👋🏻
-Me formei como *Técnico em Informática* pelo **IFBA** e **Técnologo em Análise e Desenvolvimento de Sistemas** pela **Uninter**.
+Me formei como **Técnico em Informática** pelo **IFBA** e **Técnologo em Análise e Desenvolvimento de Sistemas** pela **Uninter**.
 
 Gosto de tecnologia desde que me entendo por gente, e programar acabou virando uma das minhas maiores paixões.  
 Adoro pegar uma ideia do zero e transformá-la em algo funcional — especialmente com código.
