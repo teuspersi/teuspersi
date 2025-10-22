@@ -1,4 +1,4 @@
-# Olá, meu nome é Mateus 👋🏻
+# Olá 👋🏻
 Me formei como Técnico em Informática pelo **IFBA** e atualmente estou estudando **Análise e Desenvolvimento de Sistemas** na **Uninter**.
 
 Gosto de tecnologia desde que me entendo por gente, e programar acabou virando uma das minhas maiores paixões.  
