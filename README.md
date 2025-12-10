@@ -1,5 +1,3 @@
-[English version](https://github.com/teuspersi/teuspersi/blob/main/README.en-us.md)
-
 # Olá 👋🏻
 
 Sou desenvolvedor Full Stack Pleno, motivado por aprender continuamente e por usar tecnologia para criar soluções úteis. Trabalho principalmente com Ruby on Rails, Vue.js, Docker e PostgreSQL, e também tenho experiência com Go e Python. 
@@ -26,3 +24,5 @@ Gosto de resolver problemas, escrever código de qualidade e colaborar para cons
  #### Me encontre aqui:
 - [Linkedin](https://www.linkedin.com/in/mateuspersi/)
 - [Gmail](mailto:teuspersi@gmail.com)
+
+🌐 [EN-US version](https://github.com/teuspersi/teuspersi/blob/main/README.en-us.md)
